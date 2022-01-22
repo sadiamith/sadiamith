@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working as a full stack developer and a junior majoring in computer science at the University of Saskatchewan. 
+- 🔭 I’m currently working as a full stack developer and a junior majoring in computer science & software engineering at the University of Saskatchewan. 
 - 🗻 My focus is mainly full stack web applications. I enjoy working with different JavaScript based libraries and runtime env such as React, Vue, Nuxt, Node.js 
 - 🌱 I’m currently learning typescript to make my existing codebase more robust, scala, akka actor-model and MIPS to better understand the lower level architecture.  
 - 🦚 A project that I'm proud to have worked on which is a marketplace web application that helps over 150 local business owners list their products on the
