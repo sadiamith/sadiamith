@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning typescript to make my existing codebase more robust, scala, akka actor-model and MIPS to better understand the lower level architecture.  
 - 🦚 A project that I'm proud to have worked on which is a marketplace web application that helps over 150 local business owners list their products on the
 platform to leverage their sales where more than 3500 transactions take place per month: https://localhouse.ca/
+- 🛒 An interesting project that I am currently working on, built using hybrid MEVN tech stack which uses shopify as a headless e-commerce service: https://yfi.beta.trustedmarketingservices.com/
 - 🏓 I love teaching myself different concepts of artifical intelligence, machine learning & data science. 
 - 📫 How to reach me: sam774@usask.ca
 - ⚡ Fun fact: I also operate my own property management where I'm trying to develop an asynchronous communication platform to make the property management operation more efficient
